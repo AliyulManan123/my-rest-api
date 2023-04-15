@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Ikhsan'// yourname
-global.MONGO_DB_URI = "mongodb+srv://shanbot:<shanbotygy>@cluster0.r5mllib.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://shanbot:12345678@cluster0.r5mllib.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "shanbot" //isi apa aja bebas
 global.your_email = "shanbot20@gmail.com" //email
 global.email_password = "lotlgtbgbgltpxke" //application password email
